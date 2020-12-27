@@ -3,6 +3,7 @@
     "displayName": "MyDarkTheme",
     "description": "dark",
     "version": "1.0.0",
+    "publisher": "DarkThemeforFlutterDev",
     "engines": {
         "vscode": "^1.49.0"
     },
