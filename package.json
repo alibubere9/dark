@@ -2,7 +2,7 @@
     "name": "dark",
     "displayName": "Dark Theme(optimed for Flutter)",
     "description": "dark",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "DarkThemeforFlutterDev",
     "engines": {
         "vscode": "^1.49.0"
