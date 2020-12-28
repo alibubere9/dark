@@ -1,22 +1,27 @@
 {
-    "name": "dark",
-    "displayName": "Dark Theme(optimed for Flutter)",
-    "description": "dark",
-    "version": "1.0.1",
-    "publisher": "DarkThemeforFlutterDev",
-    "engines": {
-        "vscode": "^1.49.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "The best Dark theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/The best Dark theme-color-theme.json"
-            }
-        ]
-    }
+	"name": "dark",
+	"displayName": "Flutter Dark Theme",
+	"description": "dark",
+	"version": "1.0.2",
+	"publisher": "DarkThemeforFlutterDev",
+	"engines": {
+		"vscode": "^1.49.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Flutter Dark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/The best Dark theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "725904f7-f2fa-42e4-9817-1833e73d325d",
+		"publisherDisplayName": "Ali Bubere",
+		"publisherId": "fb230139-12c9-4a66-8b97-4e3566ef103f"
+	}
 }
