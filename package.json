@@ -2,8 +2,9 @@
 	"name": "dark",
 	"displayName": "Flutter Dark Theme",
 	"description": "dark",
-	"version": "1.0.2",
+	"version": "2.0.0",
 	"publisher": "DarkThemeforFlutterDev",
+	"repository": "https://github.com/alibubere9/dark",
 	"engines": {
 		"vscode": "^1.49.0"
 	},
@@ -16,6 +17,11 @@
 				"label": "Flutter Dark Theme",
 				"uiTheme": "vs-dark",
 				"path": "./themes/The best Dark theme-color-theme.json"
+			},
+			{
+				"label": "Flutter Grey Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Flutter-Grey-Theme.json"
 			}
 		]
 	},
