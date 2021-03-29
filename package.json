@@ -2,9 +2,10 @@
 	"name": "dark",
 	"displayName": "Flutter Dark Theme",
 	"description": "dark",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"publisher": "DarkThemeforFlutterDev",
-	"repository": "https://github.com/alibubere9/dark",
+	"repository": "https://github.com/alibubere9/dark/",
+	
 	"engines": {
 		"vscode": "^1.49.0"
 	},
@@ -12,6 +13,7 @@
 		"Themes"
 	],
 	"contributes": {
+
 		"themes": [
 			{
 				"label": "Flutter Dark Theme",
@@ -22,10 +24,12 @@
 				"label": "Flutter Grey Theme",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Flutter-Grey-Theme.json"
+				
 			}
 		]
 	},
 	"__metadata": {
+		
 		"id": "725904f7-f2fa-42e4-9817-1833e73d325d",
 		"publisherDisplayName": "Ali Bubere",
 		"publisherId": "fb230139-12c9-4a66-8b97-4e3566ef103f"

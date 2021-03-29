@@ -5,8 +5,8 @@ These are specially designed to use for flutter programming!
 We currently have two variants, Dark and Grey.
 
 __Dark Theme:__
-![plot](./Screens/dark/Screenshot1.png)
-![plot](./Screens/dark/Screenshot2.png)
+![plot](Screens/dark/Screenshot1.png)
+![plot](Screens/dark/Screenshot2.png)
 
 
 __Grey Theme:__
